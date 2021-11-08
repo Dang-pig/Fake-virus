@@ -1,0 +1,1 @@
+x=msgbox("Virus detected", 0+64, "ERROR")
